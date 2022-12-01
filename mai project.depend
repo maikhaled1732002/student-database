@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1662568674 source:d:\codeblocks\mai project\source project.c
+	<stdbool.h>
+
+1662573107 source:c:\users\engineer\downloads\mai project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"p_header.h"
+
+1662572226 c:\users\engineer\downloads\mai project\p_header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"p_source.c"
+
+1662572226 c:\users\engineer\downloads\mai project\p_source.c
+	<stdbool.h>
+
+1662647671 source:e:\c\mai project\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"p_header.h"
+
+1662600439 e:\c\mai project\p_header.h
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"p_source.c"
+
+1662647671 e:\c\mai project\p_source.c
+	<stdbool.h>
+
